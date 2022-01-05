@@ -1,1 +1,1 @@
-"This is FileB-version1- Giithub-new branch Feature" 
+"This is FileB-version1-feature branch" 
