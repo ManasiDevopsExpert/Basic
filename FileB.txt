@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This is FileB-version2-master Branch"
+=======
+"This is FileB-version1-feature branch" 
+>>>>>>> feature
 =======
 "This is FileB-version1-feature branch" 
 >>>>>>> feature
